@@ -1,0 +1,35 @@
+name: Radar Diario de Dividendos
+
+on:
+  schedule:
+    # Roda de seg a sex, às 23h00 (UTC) - Fim do dia no Brasil
+    - cron: '0 23 * * 1-5'
+  workflow_dispatch: # Botão manual para você testar quando quiser
+
+jobs:
+  gerar-json:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Baixar o código
+      uses: actions/checkout@v3
+
+    - name: Configurar Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+
+    - name: Instalar bibliotecas
+      run: pip install -r requirements.txt
+
+    - name: Rodar o Radar
+      run: python radar.py
+
+    - name: Salvar o JSON no repositório
+      run: |
+        git config --global user.name "Robo de Dados"
+        git config --global user.email "robo@seuapp.com"
+        git add dividendos.json
+        # Se não houver mudança nos dividendos, não faz commit de erro
+        git commit -m "Atualizando radar de dividendos" || echo "Sem mudanças para commitar"
+        git push
