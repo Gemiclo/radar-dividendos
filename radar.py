@@ -3,18 +3,39 @@ import requests
 import json
 import io
 import os
+import datetime
 
 API_KEY = os.environ.get("SCRAPER_API_KEY")
 
-# 1. A página de ações não tem paginação forte, então vai normal
-urls_alvo = ["https://www.dadosdemercado.com.br/agenda-de-dividendos"]
+# 1. Ações (O site Dados de Mercado lista os pagamentos futuros normalmente)
+urls_alvo = [
+    "https://www.dadosdemercado.com.br/agenda-de-dividendos" 
+]
 
-# 2. Criamos as URLs do Investidor10 da página 1 até a 5
-for pagina in range(1, 6):
-    urls_alvo.append(f"https://investidor10.com.br/fiis/dividendos/?page={pagina}")
+# 2. Construção Inteligente dos Links de FIIs (Mês Atual + Mês Passado)
+meses = {1: 'janeiro', 2: 'fevereiro', 3: 'marco', 4: 'abril', 5: 'maio', 6: 'junho', 
+         7: 'julho', 8: 'agosto', 9: 'setembro', 10: 'outubro', 11: 'novembro', 12: 'dezembro'}
+
+hoje = datetime.date.today()
+
+# URL do Mês Atual (ex: /2026/abril/)
+url_atual = f"https://investidor10.com.br/fiis/dividendos/{hoje.year}/{meses[hoje.month]}/"
+
+# Calcula matematicamente o mês passado para pegar os anúncios do último dia útil
+primeiro_dia_mes_atual = hoje.replace(day=1)
+data_mes_passado = primeiro_dia_mes_atual - datetime.timedelta(days=1)
+
+# URL do Mês Passado (ex: /2026/marco/)
+url_passado = f"https://investidor10.com.br/fiis/dividendos/{data_mes_passado.year}/{meses[data_mes_passado.month]}/"
+
+# Adiciona ao robô as páginas 1, 2 e 3 tanto do mês atual quanto do mês passado
+for pagina in range(1, 4):
+    urls_alvo.append(f"{url_atual}?page={pagina}")
+    urls_alvo.append(f"{url_passado}?page={pagina}")
+
 
 def atualizar_dividendos():
-    print("Iniciando o túnel Premium (ScraperAPI) com Paginação...")
+    print("Iniciando o túnel Premium (ScraperAPI) com Máquina do Tempo...")
     
     dados_totais = [] 
 
@@ -26,16 +47,15 @@ def atualizar_dividendos():
             resposta = requests.get(url_tunel)
             
             if resposta.status_code != 200:
-                print(f"Erro ou fim das páginas em {url}. Status: {resposta.status_code}")
+                print(f"Fim das páginas nesta URL. Status: {resposta.status_code}")
                 continue 
 
             html_lido = io.StringIO(resposta.text)
             
-            # Se não houver tabelas (ex: chegou numa página que não existe mais FII), ele ignora e segue
             try:
                 tabelas = pd.read_html(html_lido)
             except ValueError:
-                print("Nenhuma tabela HTML encontrada nesta página. Passando para a próxima...")
+                print("Nenhuma tabela encontrada nesta página. Passando...")
                 continue
             
             df_correto = None
@@ -74,20 +94,20 @@ def atualizar_dividendos():
                 
                 print(f"Sucesso! {contador} proventos extraídos.")
             else:
-                print("Aviso: Nenhuma tabela válida nesta página específica.")
+                print("Aviso: Nenhuma tabela válida nesta página.")
 
         except Exception as e:
             print(f"Erro técnico na captura de {url}: {e}")
 
-    # Remove duplicatas (caso algum FII apareça em duas páginas por atualização do site)
+    # Remove os duplicados mantendo a integridade da lista final
     dados_unicos = [dict(t) for t in {tuple(d.items()) for d in dados_totais}]
 
     if len(dados_unicos) > 0:
         with open('dividendos.json', 'w', encoding='utf-8') as f:
             json.dump(dados_unicos, f, indent=4, ensure_ascii=False)
-        print(f"\nVITÓRIA ABSOLUTA! {len(dados_unicos)} dividendos (Ações + FIIs) salvos no dividendos.json")
+        print(f"\nVITÓRIA ABSOLUTA! {len(dados_unicos)} dividendos únicos salvos no JSON.")
     else:
-        print("\nErro crítico: Nenhum dado foi salvo no processo.")
+        print("\nErro crítico: Nenhum dado foi salvo.")
 
 if __name__ == "__main__":
     if not API_KEY:
