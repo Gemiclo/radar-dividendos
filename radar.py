@@ -1,33 +1,27 @@
 import pandas as pd
-import cloudscraper
+import requests
 import json
 import io
+import os
 
-url = "https://investidor10.com.br/acoes/proventos/"
+# Pega a chave secreta que guardamos no GitHub
+API_KEY = os.environ.get("SCRAPER_API_KEY")
+url_alvo = "https://investidor10.com.br/acoes/proventos/"
 
 def atualizar_dividendos():
-    print("Iniciando o Cloudscraper (Evasão de bloqueios)...")
+    print("Iniciando o túnel residencial (ScraperAPI)...")
     
-    # Configura o robô para imitar perfeitamente um Google Chrome real no Windows
-    scraper = cloudscraper.create_scraper(
-        browser={
-            'browser': 'chrome',
-            'platform': 'windows',
-            'mobile': False
-        }
-    )
+    # O parâmetro render=true garante que o ScraperAPI espere o JavaScript da tabela carregar
+    url_tunel = f"http://api.scraperapi.com/?api_key={API_KEY}&url={url_alvo}&render=true"
     
     try:
-        print(f"Acessando o portal: {url}")
-        resposta = scraper.get(url)
+        print("Solicitando os dados da tabela...")
+        resposta = requests.get(url_tunel)
         
-        # O cloudscraper devolve o HTML puro, já passando pela segurança
         html_lido = io.StringIO(resposta.text)
-        
-        print("Procurando tabelas no site...")
         tabelas = pd.read_html(html_lido)
         
-        # A tabela de proventos do Investidor10 geralmente é a primeira
+        # A primeira tabela é a que importa
         df_correto = tabelas[0]
         
         dados_limpos = []
@@ -49,11 +43,10 @@ def atualizar_dividendos():
                     "valor": valor
                 })
 
-        # Salva no JSON
         if len(dados_limpos) > 0:
             with open('dividendos.json', 'w', encoding='utf-8') as f:
                 json.dump(dados_limpos, f, indent=4, ensure_ascii=False)
-            print(f"BINGO! {len(dados_limpos)} dividendos salvos com sucesso no dividendos.json")
+            print(f"VITÓRIA! {len(dados_limpos)} dividendos salvos com sucesso no dividendos.json")
         else:
             print("A tabela foi encontrada, mas estava vazia.")
 
@@ -61,4 +54,7 @@ def atualizar_dividendos():
         print(f"Erro na captura: {e}")
 
 if __name__ == "__main__":
-    atualizar_dividendos()
+    if not API_KEY:
+        print("ERRO: A chave SCRAPER_API_KEY não foi encontrada no ambiente.")
+    else:
+        atualizar_dividendos()
