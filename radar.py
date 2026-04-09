@@ -6,13 +6,12 @@ import os
 
 API_KEY = os.environ.get("SCRAPER_API_KEY")
 
-# Alvo mais simples e direto para leitura
-url_alvo = "https://www.dadosdemercado.com.br/dividendos"
+# A URL correta (agora vai!)
+url_alvo = "https://www.dadosdemercado.com.br/agenda-de-dividendos"
 
 def atualizar_dividendos():
     print("Iniciando o túnel Premium (ScraperAPI)...")
     
-    # Usando premium=true para IPs residenciais imbatíveis e retirando o render (mais rápido)
     url_tunel = f"http://api.scraperapi.com/?api_key={API_KEY}&url={url_alvo}&premium=true"
     
     try:
@@ -21,13 +20,17 @@ def atualizar_dividendos():
         
         print(f"Status da conexão: {resposta.status_code}")
         
+        if resposta.status_code != 200:
+            print("Erro: A página não carregou corretamente. Verifique a URL.")
+            return
+
         html_lido = io.StringIO(resposta.text)
         tabelas = pd.read_html(html_lido)
         
         df_correto = None
         for tb in tabelas:
-            # Identifica a tabela certa automaticamente
-            if 'Data Com' in tb.columns or 'Pagamento' in tb.columns:
+            # O Dados de Mercado usa a coluna 'Pagamento'
+            if 'Pagamento' in tb.columns:
                 df_correto = tb
                 break
                 
@@ -36,11 +39,12 @@ def atualizar_dividendos():
             print("Tabela encontrada! Extraindo os dados...")
             
             for index, row in df_correto.iterrows():
-                ativo = str(row.get('Ativo', row.get('ATIVO', '')))
-                tipo = str(row.get('Tipo', row.get('TIPO', '')))
-                data_com = str(row.get('Data Com', row.get('DATA COM', '')))
-                data_pagamento = str(row.get('Pagamento', row.get('PAGAMENTO', '')))
-                valor = str(row.get('Valor', row.get('VALOR', '')))
+                # Lendo exatamente os cabeçalhos que o site fornece
+                ativo = str(row.get('Código', ''))
+                tipo = str(row.get('Tipo', ''))
+                data_com = str(row.get('Registro', ''))
+                data_pagamento = str(row.get('Pagamento', ''))
+                valor = str(row.get('Valor (R$)', ''))
                 
                 if ativo and ativo != 'nan':
                     dados_limpos.append({
@@ -59,7 +63,6 @@ def atualizar_dividendos():
                 print("A tabela foi encontrada, mas estava vazia.")
         else:
             print("Erro: Nenhuma tabela de dividendos encontrada.")
-            # O Raio-X: mostra os primeiros 500 caracteres do site para sabermos o que o robô viu
             print("Visão do robô (Raio-X do HTML):", resposta.text[:500])
 
     except Exception as e:
@@ -67,6 +70,6 @@ def atualizar_dividendos():
 
 if __name__ == "__main__":
     if not API_KEY:
-        print("ERRO: A chave SCRAPER_API_KEY não foi encontrada nas variáveis do GitHub.")
+        print("ERRO: A chave SCRAPER_API_KEY não foi encontrada nas variáveis.")
     else:
         atualizar_dividendos()
