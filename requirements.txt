@@ -3,3 +3,4 @@ lxml
 html5lib
 selenium
 webdriver-manager
+beautifulsoup4
