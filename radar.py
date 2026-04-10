@@ -53,7 +53,7 @@ def atualizar_dividendos():
             html_lido = io.StringIO(resposta.text)
             
             try:
-                tabelas = pd.read_html(html_lido)
+                tabelas = pd.read_html(html_lido, decimal=',', thousands='.')
             except ValueError:
                 print("Nenhuma tabela encontrada nesta página. Passando...")
                 continue
