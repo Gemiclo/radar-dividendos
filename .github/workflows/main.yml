@@ -3,7 +3,7 @@ name: Radar Diario de Dividendos
 on:
   schedule:
     # Roda de seg a sex, às 23h00 (UTC) - Fim do dia no Brasil
-    - cron: '0 23 * * 1-5'
+    - cron: '0 23 * * 2,4'
   workflow_dispatch: # Botão manual para você testar quando quiser
 
 jobs:
