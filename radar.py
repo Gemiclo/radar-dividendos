@@ -28,7 +28,7 @@ data_mes_passado = primeiro_dia_mes_atual - datetime.timedelta(days=1)
 # URL do Mês Passado (ex: /2026/marco/)
 url_passado = f"https://investidor10.com.br/fiis/dividendos/{data_mes_passado.year}/{meses[data_mes_passado.month]}/"
 
-# Adiciona ao robô as páginas 1, 2 e 3 tanto do mês atual quanto do mês passado
+# Adiciona ao robô as páginas 1, 2, 3, 4 e 5 tanto do mês atual quanto do mês passado
 for pagina in range(1, 6):
     urls_alvo.append(f"{url_atual}?page={pagina}")
     urls_alvo.append(f"{url_passado}?page={pagina}")
