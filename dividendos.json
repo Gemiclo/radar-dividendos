@@ -5430,5 +5430,75 @@
         "data_com": "17/08/26",
         "data_pagamento": "24/08/26",
         "valor": "0,10"
+    },
+    {
+        "ativo": "XPIN11",
+        "tipo": "Dividendos",
+        "data_com": "18/08/26",
+        "data_pagamento": "25/08/26",
+        "valor": "0,35"
+    },
+    {
+        "ativo": "ALZR11",
+        "tipo": "Dividendos",
+        "data_com": "18/08/26",
+        "data_pagamento": "25/08/26",
+        "valor": "0,08"
+    },
+    {
+        "ativo": "FCFL11",
+        "tipo": "Dividendos",
+        "data_com": "18/08/26",
+        "data_pagamento": "25/08/26",
+        "valor": "0,93"
+    },
+    {
+        "ativo": "VVCR11",
+        "tipo": "Dividendos",
+        "data_com": "18/08/26",
+        "data_pagamento": "25/08/26",
+        "valor": "0,10"
+    },
+    {
+        "ativo": "BPML11",
+        "tipo": "Dividendos",
+        "data_com": "18/08/26",
+        "data_pagamento": "25/08/26",
+        "valor": "0,92"
+    },
+    {
+        "ativo": "CACR11",
+        "tipo": "Dividendos",
+        "data_com": "18/08/26",
+        "data_pagamento": "21/08/26",
+        "valor": "1,16"
+    },
+    {
+        "ativo": "TJKB11",
+        "tipo": "Dividendos",
+        "data_com": "18/08/26",
+        "data_pagamento": "26/08/26",
+        "valor": "2,90"
+    },
+    {
+        "ativo": "BROF11",
+        "tipo": "Dividendos",
+        "data_com": "18/08/26",
+        "data_pagamento": "25/08/26",
+        "valor": "0,56"
+    },
+    {
+        "ativo": "VVRI11",
+        "tipo": "Dividendos",
+        "data_com": "18/08/26",
+        "data_pagamento": "25/08/26",
+        "valor": "0,02"
+    },
+    {
+        "ativo": "FTCA11",
+        "tipo": "Dividendos",
+        "data_com": "18/08/26",
+        "data_pagamento": "25/08/26",
+        "valor": "0,08"
     }
 ]
