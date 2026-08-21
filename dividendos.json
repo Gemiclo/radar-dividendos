@@ -5612,5 +5612,96 @@
         "data_com": "19/08/26",
         "data_pagamento": "26/08/26",
         "valor": "0,85"
+    },
+    {
+        "ativo": "A1ES34",
+        "tipo": "Dividendo",
+        "data_com": "29/07/2026",
+        "data_pagamento": "20/08/2026",
+        "valor": "0.618974"
+    },
+    {
+        "ativo": "A1ON34",
+        "tipo": "Dividendo",
+        "data_com": "30/07/2026",
+        "data_pagamento": "20/08/2026",
+        "valor": "0.772632"
+    },
+    {
+        "ativo": "C1HT34",
+        "tipo": "Dividendo",
+        "data_com": "07/07/2026",
+        "data_pagamento": "20/08/2026",
+        "valor": "1.574042"
+    },
+    {
+        "ativo": "M1MC34",
+        "tipo": "Dividendo",
+        "data_com": "21/07/2026",
+        "data_pagamento": "20/08/2026",
+        "valor": "1.741373"
+    },
+    {
+        "ativo": "O1KE34",
+        "tipo": "Dividendo",
+        "data_com": "30/07/2026",
+        "data_pagamento": "20/08/2026",
+        "valor": "1.882088"
+    },
+    {
+        "ativo": "R1IN34",
+        "tipo": "Dividendo",
+        "data_com": "29/07/2026",
+        "data_pagamento": "20/08/2026",
+        "valor": "0.476679"
+    },
+    {
+        "ativo": "EALT3",
+        "tipo": "Dividendo",
+        "data_com": "19/01/2022",
+        "data_pagamento": "28/08/2026",
+        "valor": "0.006275"
+    },
+    {
+        "ativo": "PATI3",
+        "tipo": "Dividendo",
+        "data_com": "17/08/2026",
+        "data_pagamento": "28/08/2026",
+        "valor": "4.912062"
+    },
+    {
+        "ativo": "PATI3",
+        "tipo": "Dividendo",
+        "data_com": "28/04/2026",
+        "data_pagamento": "28/08/2026",
+        "valor": "0.433745"
+    },
+    {
+        "ativo": "CAMB3",
+        "tipo": "Dividendo",
+        "data_com": "18/08/2026",
+        "data_pagamento": "31/08/2026",
+        "valor": "0.15"
+    },
+    {
+        "ativo": "JCSC11",
+        "tipo": "Dividendos",
+        "data_com": "13/08/26",
+        "data_pagamento": "20/08/26",
+        "valor": "0,71"
+    },
+    {
+        "ativo": "CVPR11",
+        "tipo": "Dividendos",
+        "data_com": "20/08/26",
+        "data_pagamento": "27/08/26",
+        "valor": "0,90"
+    },
+    {
+        "ativo": "CACR11",
+        "tipo": "Dividendos",
+        "data_com": "21/08/26",
+        "data_pagamento": "28/08/26",
+        "valor": "1,16"
     }
 ]
