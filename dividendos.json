@@ -5703,5 +5703,103 @@
         "data_com": "21/08/26",
         "data_pagamento": "28/08/26",
         "valor": "1,16"
+    },
+    {
+        "ativo": "ABBV34",
+        "tipo": "Dividendo",
+        "data_com": "13/07/2026",
+        "data_pagamento": "20/08/2026",
+        "valor": "0.380376"
+    },
+    {
+        "ativo": "U1NM34",
+        "tipo": "Dividendo",
+        "data_com": "22/07/2026",
+        "data_pagamento": "20/08/2026",
+        "valor": "1.776497"
+    },
+    {
+        "ativo": "A1EN34",
+        "tipo": "Dividendo",
+        "data_com": "29/07/2026",
+        "data_pagamento": "21/08/2026",
+        "valor": "1.883478"
+    },
+    {
+        "ativo": "A1OS34",
+        "tipo": "Dividendo",
+        "data_com": "29/07/2026",
+        "data_pagamento": "21/08/2026",
+        "valor": "1.2675"
+    },
+    {
+        "ativo": "ABTT34",
+        "tipo": "Dividendo",
+        "data_com": "13/07/2026",
+        "data_pagamento": "21/08/2026",
+        "valor": "0.184794"
+    },
+    {
+        "ativo": "B1KR34",
+        "tipo": "Dividendo",
+        "data_com": "05/08/2026",
+        "data_pagamento": "21/08/2026",
+        "valor": "0.809564"
+    },
+    {
+        "ativo": "H1RL34",
+        "tipo": "Dividendo",
+        "data_com": "09/07/2026",
+        "data_pagamento": "21/08/2026",
+        "valor": "1.029582"
+    },
+    {
+        "ativo": "KMIC34",
+        "tipo": "Dividendo",
+        "data_com": "30/07/2026",
+        "data_pagamento": "21/08/2026",
+        "valor": "1.047169"
+    },
+    {
+        "ativo": "N1RG34",
+        "tipo": "Dividendo",
+        "data_com": "30/07/2026",
+        "data_pagamento": "21/08/2026",
+        "valor": "1.671932"
+    },
+    {
+        "ativo": "PGCO34",
+        "tipo": "Dividendo",
+        "data_com": "22/07/2026",
+        "data_pagamento": "21/08/2026",
+        "valor": "0.273671"
+    },
+    {
+        "ativo": "S1YF34",
+        "tipo": "Dividendo",
+        "data_com": "03/08/2026",
+        "data_pagamento": "21/08/2026",
+        "valor": "1.196776"
+    },
+    {
+        "ativo": "CATP34",
+        "tipo": "Dividendo",
+        "data_com": "17/07/2026",
+        "data_pagamento": "26/08/2026",
+        "valor": "0.349933"
+    },
+    {
+        "ativo": "EALT4",
+        "tipo": "Dividendo",
+        "data_com": "19/01/2022",
+        "data_pagamento": "28/08/2026",
+        "valor": "0.006903"
+    },
+    {
+        "ativo": "BDIV11",
+        "tipo": "Dividendos",
+        "data_com": "20/08/26",
+        "data_pagamento": "02/09/26",
+        "valor": "7,29"
     }
 ]
