@@ -5815,5 +5815,19 @@
         "data_com": "06/08/2026",
         "data_pagamento": "21/08/2026",
         "valor": "1.97087"
+    },
+    {
+        "ativo": "AWII34",
+        "tipo": "Dividendo",
+        "data_com": "03/08/2026",
+        "data_pagamento": "25/08/2026",
+        "valor": "1.189095"
+    },
+    {
+        "ativo": "B1TI34",
+        "tipo": "Dividendo",
+        "data_com": "08/07/2026",
+        "data_pagamento": "25/08/2026",
+        "valor": "0.821771"
     }
 ]
