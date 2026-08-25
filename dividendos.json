@@ -5829,5 +5829,54 @@
         "data_com": "08/07/2026",
         "data_pagamento": "25/08/2026",
         "valor": "0.821771"
+    },
+    {
+        "ativo": "E2NT34",
+        "tipo": "Dividendo",
+        "data_com": "27/07/2026",
+        "data_pagamento": "25/08/2026",
+        "valor": "0.019486"
+    },
+    {
+        "ativo": "PPEI11",
+        "tipo": "Dividendos",
+        "data_com": "21/08/26",
+        "data_pagamento": "28/08/26",
+        "valor": "1,00"
+    },
+    {
+        "ativo": "EDGA11",
+        "tipo": "Dividendos",
+        "data_com": "24/08/26",
+        "data_pagamento": "31/08/26",
+        "valor": "0,25"
+    },
+    {
+        "ativo": "BTRA11",
+        "tipo": "Dividendos",
+        "data_com": "24/08/26",
+        "data_pagamento": "31/08/26",
+        "valor": "1,00"
+    },
+    {
+        "ativo": "BTSI11",
+        "tipo": "Dividendos",
+        "data_com": "24/08/26",
+        "data_pagamento": "31/08/26",
+        "valor": "0,83"
+    },
+    {
+        "ativo": "GZIT11",
+        "tipo": "Dividendos",
+        "data_com": "24/08/26",
+        "data_pagamento": "31/08/26",
+        "valor": "0,36"
+    },
+    {
+        "ativo": "PNRC11",
+        "tipo": "Amortização",
+        "data_com": "24/08/26",
+        "data_pagamento": "31/08/26",
+        "valor": "5,47"
     }
 ]
