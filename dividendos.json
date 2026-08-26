@@ -5878,5 +5878,19 @@
         "data_com": "24/08/26",
         "data_pagamento": "31/08/26",
         "valor": "5,47"
+    },
+    {
+        "ativo": "ELDO11B",
+        "tipo": "Dividendos",
+        "data_com": "25/08/26",
+        "data_pagamento": "02/09/26",
+        "valor": "1,90"
+    },
+    {
+        "ativo": "SMRE11",
+        "tipo": "Dividendos",
+        "data_com": "31/08/26",
+        "data_pagamento": "10/09/26",
+        "valor": "1,00"
     }
 ]
