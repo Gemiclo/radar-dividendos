@@ -5892,5 +5892,40 @@
         "data_com": "31/08/26",
         "data_pagamento": "10/09/26",
         "valor": "1,00"
+    },
+    {
+        "ativo": "F1AN34",
+        "tipo": "Dividendo",
+        "data_com": "12/08/2026",
+        "data_pagamento": "26/08/2026",
+        "valor": "0.240048"
+    },
+    {
+        "ativo": "K1TC34",
+        "tipo": "Dividendo",
+        "data_com": "27/07/2026",
+        "data_pagamento": "26/08/2026",
+        "valor": "0.823111"
+    },
+    {
+        "ativo": "N1IS34",
+        "tipo": "Dividendo",
+        "data_com": "29/07/2026",
+        "data_pagamento": "26/08/2026",
+        "valor": "1.047483"
+    },
+    {
+        "ativo": "N1SC34",
+        "tipo": "Dividendo",
+        "data_com": "05/08/2026",
+        "data_pagamento": "26/08/2026",
+        "valor": "1.1782"
+    },
+    {
+        "ativo": "W1EL34",
+        "tipo": "Dividendo",
+        "data_com": "10/08/2026",
+        "data_pagamento": "26/08/2026",
+        "valor": "1.483936"
     }
 ]
