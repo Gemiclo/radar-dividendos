@@ -5955,5 +5955,19 @@
         "data_com": "06/08/2026",
         "data_pagamento": "28/08/2026",
         "valor": "0.174096"
+    },
+    {
+        "ativo": "SPG211",
+        "tipo": "Dividendos",
+        "data_com": "28/08/26",
+        "data_pagamento": "04/09/26",
+        "valor": "0,08"
+    },
+    {
+        "ativo": "LMAI11",
+        "tipo": "Dividendos",
+        "data_com": "31/08/26",
+        "data_pagamento": "10/09/26",
+        "valor": "0,23"
     }
 ]
