@@ -5969,5 +5969,26 @@
         "data_com": "31/08/26",
         "data_pagamento": "10/09/26",
         "valor": "0,23"
+    },
+    {
+        "ativo": "CTSH34",
+        "tipo": "Dividendo",
+        "data_com": "14/08/2026",
+        "data_pagamento": "31/08/2026",
+        "valor": "1.151856"
+    },
+    {
+        "ativo": "FASL34",
+        "tipo": "Dividendo",
+        "data_com": "24/07/2026",
+        "data_pagamento": "31/08/2026",
+        "valor": "0.907436"
+    },
+    {
+        "ativo": "N1VO34",
+        "tipo": "Dividendo",
+        "data_com": "13/08/2026",
+        "data_pagamento": "31/08/2026",
+        "valor": "0.254167"
     }
 ]
