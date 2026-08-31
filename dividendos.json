@@ -5990,5 +5990,12 @@
         "data_com": "13/08/2026",
         "data_pagamento": "31/08/2026",
         "valor": "0.254167"
+    },
+    {
+        "ativo": "ARNC34",
+        "tipo": "Dividendo",
+        "data_com": "05/08/2026",
+        "data_pagamento": "31/08/2026",
+        "valor": "0.488634"
     }
 ]
