@@ -9833,5 +9833,19 @@
         "data_com": "02/09/2026",
         "data_pagamento": "30/09/2026",
         "valor": "3.243466"
+    },
+    {
+        "ativo": "A1WK34",
+        "tipo": "Dividendo",
+        "data_com": "07/08/2026",
+        "data_pagamento": "08/09/2026",
+        "valor": "0.775926"
+    },
+    {
+        "ativo": "FIGE4",
+        "tipo": "Dividendo",
+        "data_com": "30/04/2026",
+        "data_pagamento": "11/09/2026",
+        "valor": "0.063316"
     }
 ]
