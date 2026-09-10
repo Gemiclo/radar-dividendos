@@ -10169,5 +10169,166 @@
         "data_com": "08/09/26",
         "data_pagamento": "15/09/26",
         "valor": "1,16"
+    },
+    {
+        "ativo": "M1KT34",
+        "tipo": "Dividendo",
+        "data_com": "17/08/2026",
+        "data_pagamento": "09/09/2026",
+        "valor": "0.05376"
+    },
+    {
+        "ativo": "V1MC34",
+        "tipo": "Dividendo",
+        "data_com": "11/08/2026",
+        "data_pagamento": "09/09/2026",
+        "valor": "0.029873"
+    },
+    {
+        "ativo": "C2GN34",
+        "tipo": "Dividendo",
+        "data_com": "18/08/2026",
+        "data_pagamento": "10/09/2026",
+        "valor": "0.03683"
+    },
+    {
+        "ativo": "JEPI39",
+        "tipo": "Dividendo",
+        "data_com": "31/08/2026",
+        "data_pagamento": "10/09/2026",
+        "valor": "0.214585"
+    },
+    {
+        "ativo": "M2KS34",
+        "tipo": "Dividendo",
+        "data_com": "21/08/2026",
+        "data_pagamento": "10/09/2026",
+        "valor": "0.048138"
+    },
+    {
+        "ativo": "YUMR34",
+        "tipo": "Dividendo",
+        "data_com": "04/09/2026",
+        "data_pagamento": "24/09/2026",
+        "valor": "1.319123"
+    },
+    {
+        "ativo": "BRSR3",
+        "tipo": "JCP",
+        "data_com": "11/09/2026",
+        "data_pagamento": "28/09/2026",
+        "valor": "0.220063"
+    },
+    {
+        "ativo": "BRSR5",
+        "tipo": "JCP",
+        "data_com": "11/09/2026",
+        "data_pagamento": "28/09/2026",
+        "valor": "0.220063"
+    },
+    {
+        "ativo": "BRSR6",
+        "tipo": "JCP",
+        "data_com": "11/09/2026",
+        "data_pagamento": "28/09/2026",
+        "valor": "0.220063"
+    },
+    {
+        "ativo": "F2NV34",
+        "tipo": "Dividendo",
+        "data_com": "08/09/2026",
+        "data_pagamento": "30/09/2026",
+        "valor": "0.009148"
+    },
+    {
+        "ativo": "G1FI34",
+        "tipo": "Dividendo",
+        "data_com": "09/09/2026",
+        "data_pagamento": "30/09/2026",
+        "valor": "2.023401"
+    },
+    {
+        "ativo": "EGAF11",
+        "tipo": "Dividendos",
+        "data_com": "02/09/26",
+        "data_pagamento": "10/09/26",
+        "valor": "1,31"
+    },
+    {
+        "ativo": "IRIF11",
+        "tipo": "Dividendos",
+        "data_com": "08/09/26",
+        "data_pagamento": "17/09/26",
+        "valor": "0,10"
+    },
+    {
+        "ativo": "EXIF11",
+        "tipo": "Dividendos",
+        "data_com": "08/09/26",
+        "data_pagamento": "15/09/26",
+        "valor": "0,09"
+    },
+    {
+        "ativo": "VALO11",
+        "tipo": "Dividendos",
+        "data_com": "08/09/26",
+        "data_pagamento": "16/09/26",
+        "valor": "0,09"
+    },
+    {
+        "ativo": "BCDI11",
+        "tipo": "Dividendos",
+        "data_com": "08/09/26",
+        "data_pagamento": "22/09/26",
+        "valor": "1,20"
+    },
+    {
+        "ativo": "FPAB11",
+        "tipo": "Dividendos",
+        "data_com": "09/09/26",
+        "data_pagamento": "16/09/26",
+        "valor": "1,80"
+    },
+    {
+        "ativo": "BLCA11",
+        "tipo": "Dividendos",
+        "data_com": "09/09/26",
+        "data_pagamento": "16/09/26",
+        "valor": "0,55"
+    },
+    {
+        "ativo": "CCME11",
+        "tipo": "Dividendos",
+        "data_com": "09/09/26",
+        "data_pagamento": "16/09/26",
+        "valor": "0,09"
+    },
+    {
+        "ativo": "CLIN11",
+        "tipo": "Dividendos",
+        "data_com": "09/09/26",
+        "data_pagamento": "16/09/26",
+        "valor": "0,95"
+    },
+    {
+        "ativo": "PCIP11",
+        "tipo": "Dividendos",
+        "data_com": "09/09/26",
+        "data_pagamento": "16/09/26",
+        "valor": "0,80"
+    },
+    {
+        "ativo": "PSEC11",
+        "tipo": "Dividendos",
+        "data_com": "09/09/26",
+        "data_pagamento": "16/09/26",
+        "valor": "0,60"
+    },
+    {
+        "ativo": "ARTE11",
+        "tipo": "Dividendos",
+        "data_com": "09/09/26",
+        "data_pagamento": "16/09/26",
+        "valor": "0,11"
     }
 ]
