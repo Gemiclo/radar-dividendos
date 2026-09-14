@@ -10743,5 +10743,47 @@
         "data_com": "10/09/2026",
         "data_pagamento": "28/09/2026",
         "valor": "0.115767"
+    },
+    {
+        "ativo": "P1YC34",
+        "tipo": "Dividendo",
+        "data_com": "20/08/2026",
+        "data_pagamento": "14/09/2026",
+        "valor": "0.043097"
+    },
+    {
+        "ativo": "S1NA34",
+        "tipo": "Dividendo",
+        "data_com": "17/08/2026",
+        "data_pagamento": "16/09/2026",
+        "valor": "2.100716"
+    },
+    {
+        "ativo": "SPGI34",
+        "tipo": "Dividendo",
+        "data_com": "24/08/2026",
+        "data_pagamento": "16/09/2026",
+        "valor": "0.092791"
+    },
+    {
+        "ativo": "CASN3",
+        "tipo": "JCP",
+        "data_com": "22/12/2025",
+        "data_pagamento": "23/09/2026",
+        "valor": "0.028888"
+    },
+    {
+        "ativo": "CASN3",
+        "tipo": "JCP",
+        "data_com": "25/09/2025",
+        "data_pagamento": "23/09/2026",
+        "valor": "0.043"
+    },
+    {
+        "ativo": "CAMB3",
+        "tipo": "JCP",
+        "data_com": "17/09/2026",
+        "data_pagamento": "30/09/2026",
+        "valor": "0.144192"
     }
 ]
