@@ -10785,5 +10785,110 @@
         "data_com": "17/09/2026",
         "data_pagamento": "30/09/2026",
         "valor": "0.144192"
+    },
+    {
+        "ativo": "C2EM34",
+        "tipo": "Dividendo",
+        "data_com": "11/09/2026",
+        "data_pagamento": "30/09/2026",
+        "valor": "0.154374"
+    },
+    {
+        "ativo": "ELDO11B",
+        "tipo": "Dividendos",
+        "data_com": "14/09/26",
+        "data_pagamento": "22/09/26",
+        "valor": "7,80"
+    },
+    {
+        "ativo": "NAVT11",
+        "tipo": "Dividendos",
+        "data_com": "14/09/26",
+        "data_pagamento": "21/09/26",
+        "valor": "0,85"
+    },
+    {
+        "ativo": "GCRI11",
+        "tipo": "Dividendos",
+        "data_com": "14/09/26",
+        "data_pagamento": "21/09/26",
+        "valor": "0,85"
+    },
+    {
+        "ativo": "RCFF11",
+        "tipo": "Dividendos",
+        "data_com": "14/09/26",
+        "data_pagamento": "21/09/26",
+        "valor": "0,11"
+    },
+    {
+        "ativo": "AURB11",
+        "tipo": "Dividendos",
+        "data_com": "14/09/26",
+        "data_pagamento": "21/09/26",
+        "valor": "0,40"
+    },
+    {
+        "ativo": "RINV11",
+        "tipo": "Dividendos",
+        "data_com": "14/09/26",
+        "data_pagamento": "21/09/26",
+        "valor": "1,05"
+    },
+    {
+        "ativo": "BTYU11",
+        "tipo": "Dividendos",
+        "data_com": "14/09/26",
+        "data_pagamento": "21/09/26",
+        "valor": "5,00"
+    },
+    {
+        "ativo": "RZZI11",
+        "tipo": "Dividendos",
+        "data_com": "14/09/26",
+        "data_pagamento": "21/09/26",
+        "valor": "8,00"
+    },
+    {
+        "ativo": "TOPP11",
+        "tipo": "Dividendos",
+        "data_com": "14/09/26",
+        "data_pagamento": "21/09/26",
+        "valor": "0,45"
+    },
+    {
+        "ativo": "JCCJ11",
+        "tipo": "Dividendos",
+        "data_com": "14/09/26",
+        "data_pagamento": "21/09/26",
+        "valor": "1,77"
+    },
+    {
+        "ativo": "JCIN11",
+        "tipo": "Dividendos",
+        "data_com": "14/09/26",
+        "data_pagamento": "21/09/26",
+        "valor": "9,09"
+    },
+    {
+        "ativo": "RCRI11",
+        "tipo": "Dividendos",
+        "data_com": "14/09/26",
+        "data_pagamento": "21/09/26",
+        "valor": "1,10"
+    },
+    {
+        "ativo": "JCSC11",
+        "tipo": "Dividendos",
+        "data_com": "14/09/26",
+        "data_pagamento": "21/09/26",
+        "valor": "0,71"
+    },
+    {
+        "ativo": "IMOV11",
+        "tipo": "Dividendos",
+        "data_com": "18/09/26",
+        "data_pagamento": "21/09/26",
+        "valor": "0,09"
     }
 ]
