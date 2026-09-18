@@ -11499,5 +11499,103 @@
         "data_com": "16/09/26",
         "data_pagamento": "23/09/26",
         "valor": "2,00"
+    },
+    {
+        "ativo": "L1YB34",
+        "tipo": "Dividendo",
+        "data_com": "20/08/2026",
+        "data_pagamento": "14/09/2026",
+        "valor": "1.723947"
+    },
+    {
+        "ativo": "AMGN34",
+        "tipo": "Dividendo",
+        "data_com": "19/08/2026",
+        "data_pagamento": "17/09/2026",
+        "valor": "0.314677"
+    },
+    {
+        "ativo": "BSDV39",
+        "tipo": "Dividendo",
+        "data_com": "02/09/2026",
+        "data_pagamento": "17/09/2026",
+        "valor": "0.314677"
+    },
+    {
+        "ativo": "EBAY34",
+        "tipo": "Dividendo",
+        "data_com": "26/08/2026",
+        "data_pagamento": "17/09/2026",
+        "valor": "0.541951"
+    },
+    {
+        "ativo": "MMMC34",
+        "tipo": "Dividendo",
+        "data_com": "20/08/2026",
+        "data_pagamento": "17/09/2026",
+        "valor": "0.681801"
+    },
+    {
+        "ativo": "S1HW34",
+        "tipo": "Dividendo",
+        "data_com": "19/08/2026",
+        "data_pagamento": "17/09/2026",
+        "valor": "0.279713"
+    },
+    {
+        "ativo": "T1EL34",
+        "tipo": "Dividendo",
+        "data_com": "19/08/2026",
+        "data_pagamento": "17/09/2026",
+        "valor": "0.18262"
+    },
+    {
+        "ativo": "BIVB39",
+        "tipo": "Dividendo",
+        "data_com": "14/09/2026",
+        "data_pagamento": "24/09/2026",
+        "valor": "0.103377"
+    },
+    {
+        "ativo": "VVCR11",
+        "tipo": "Dividendos",
+        "data_com": "17/09/26",
+        "data_pagamento": "24/09/26",
+        "valor": "0,10"
+    },
+    {
+        "ativo": "ERCR11",
+        "tipo": "Amortização",
+        "data_com": "17/09/26",
+        "data_pagamento": "24/09/26",
+        "valor": "23,04"
+    },
+    {
+        "ativo": "TJKB11",
+        "tipo": "Dividendos",
+        "data_com": "17/09/26",
+        "data_pagamento": "25/09/26",
+        "valor": "2,90"
+    },
+    {
+        "ativo": "BROF11",
+        "tipo": "Dividendos",
+        "data_com": "17/09/26",
+        "data_pagamento": "24/09/26",
+        "valor": "0,56"
+    },
+    {
+        "ativo": "VVRI11",
+        "tipo": "Dividendos",
+        "data_com": "17/09/26",
+        "data_pagamento": "24/09/26",
+        "valor": "0,03"
+    },
+    {
+        "ativo": "FTCA11",
+        "tipo": "Dividendos",
+        "data_com": "17/09/26",
+        "data_pagamento": "24/09/26",
+        "valor": "0,09"
     }
 ]
