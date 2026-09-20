@@ -11863,5 +11863,103 @@
         "data_com": "19/08/26",
         "data_pagamento": "26/08/26",
         "valor": "0,82"
+    },
+    {
+        "ativo": "UPSS34",
+        "tipo": "Dividendo",
+        "data_com": "13/08/2026",
+        "data_pagamento": "03/09/2026",
+        "valor": "0.356302"
+    },
+    {
+        "ativo": "C2OL34",
+        "tipo": "Dividendo",
+        "data_com": "03/09/2026",
+        "data_pagamento": "21/09/2026",
+        "valor": "1.038745"
+    },
+    {
+        "ativo": "CSXC34",
+        "tipo": "Dividendo",
+        "data_com": "27/08/2026",
+        "data_pagamento": "21/09/2026",
+        "valor": "0.243945"
+    },
+    {
+        "ativo": "E1DI34",
+        "tipo": "Dividendo",
+        "data_com": "17/08/2026",
+        "data_pagamento": "21/09/2026",
+        "valor": "1.546412"
+    },
+    {
+        "ativo": "N1WL34",
+        "tipo": "Dividendo",
+        "data_com": "27/08/2026",
+        "data_pagamento": "21/09/2026",
+        "valor": "0.243947"
+    },
+    {
+        "ativo": "NEXT34",
+        "tipo": "Dividendo",
+        "data_com": "26/08/2026",
+        "data_pagamento": "21/09/2026",
+        "valor": "0.54295"
+    },
+    {
+        "ativo": "R1EL34",
+        "tipo": "Dividendo",
+        "data_com": "05/08/2026",
+        "data_pagamento": "21/09/2026",
+        "valor": "0.351213"
+    },
+    {
+        "ativo": "O1DF34",
+        "tipo": "Dividendo",
+        "data_com": "31/08/2026",
+        "data_pagamento": "22/09/2026",
+        "valor": "0.050522"
+    },
+    {
+        "ativo": "BOEF39",
+        "tipo": "Dividendo",
+        "data_com": "14/09/2026",
+        "data_pagamento": "24/09/2026",
+        "valor": "0.0775"
+    },
+    {
+        "ativo": "DDNB34",
+        "tipo": "Dividendo",
+        "data_com": "28/08/2026",
+        "data_pagamento": "24/09/2026",
+        "valor": "2.038098"
+    },
+    {
+        "ativo": "DUKB34",
+        "tipo": "Dividendo",
+        "data_com": "13/08/2026",
+        "data_pagamento": "25/09/2026",
+        "valor": "3.696702"
+    },
+    {
+        "ativo": "OPCT3",
+        "tipo": "Dividendo",
+        "data_com": "16/09/2026",
+        "data_pagamento": "25/09/2026",
+        "valor": "0.01"
+    },
+    {
+        "ativo": "FLRY3",
+        "tipo": "JCP",
+        "data_com": "11/08/2026",
+        "data_pagamento": "28/09/2026",
+        "valor": "0.400733"
+    },
+    {
+        "ativo": "S1KM34",
+        "tipo": "Dividendo",
+        "data_com": "27/08/2026",
+        "data_pagamento": "30/09/2026",
+        "valor": "0.290337"
     }
 ]
