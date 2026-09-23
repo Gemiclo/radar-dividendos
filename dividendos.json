@@ -12066,5 +12066,103 @@
         "data_com": "18/09/2026",
         "data_pagamento": "30/09/2026",
         "valor": "0.077991"
+    },
+    {
+        "ativo": "A2RE34",
+        "tipo": "Dividendo",
+        "data_com": "14/09/2026",
+        "data_pagamento": "24/09/2026",
+        "valor": "0.459517"
+    },
+    {
+        "ativo": "BAER39",
+        "tipo": "Dividendo",
+        "data_com": "14/09/2026",
+        "data_pagamento": "24/09/2026",
+        "valor": "0.039042"
+    },
+    {
+        "ativo": "BIHI39",
+        "tipo": "Dividendo",
+        "data_com": "14/09/2026",
+        "data_pagamento": "24/09/2026",
+        "valor": "0.00258"
+    },
+    {
+        "ativo": "BIJR39",
+        "tipo": "Dividendo",
+        "data_com": "14/09/2026",
+        "data_pagamento": "24/09/2026",
+        "valor": "0.220152"
+    },
+    {
+        "ativo": "BITO39",
+        "tipo": "Dividendo",
+        "data_com": "14/09/2026",
+        "data_pagamento": "24/09/2026",
+        "valor": "0.156499"
+    },
+    {
+        "ativo": "BIVB39",
+        "tipo": "Dividendo",
+        "data_com": "14/09/2026",
+        "data_pagamento": "24/09/2026",
+        "valor": "0.190374"
+    },
+    {
+        "ativo": "BIVE39",
+        "tipo": "Dividendo",
+        "data_com": "14/09/2026",
+        "data_pagamento": "24/09/2026",
+        "valor": "0.214549"
+    },
+    {
+        "ativo": "BIWF39",
+        "tipo": "Dividendo",
+        "data_com": "14/09/2026",
+        "data_pagamento": "24/09/2026",
+        "valor": "0.030654"
+    },
+    {
+        "ativo": "LRDI11",
+        "tipo": "Dividendos",
+        "data_com": "22/09/26",
+        "data_pagamento": "29/09/26",
+        "valor": "10,68"
+    },
+    {
+        "ativo": "HBCR11",
+        "tipo": "Amortização",
+        "data_com": "22/09/26",
+        "data_pagamento": "27/10/26",
+        "valor": "8,13"
+    },
+    {
+        "ativo": "ROOF11",
+        "tipo": "Amortização",
+        "data_com": "22/09/26",
+        "data_pagamento": "30/09/26",
+        "valor": "54,20"
+    },
+    {
+        "ativo": "PPEI11",
+        "tipo": "Dividendos",
+        "data_com": "22/09/26",
+        "data_pagamento": "29/09/26",
+        "valor": "1,00"
+    },
+    {
+        "ativo": "BTML11",
+        "tipo": "Dividendos",
+        "data_com": "22/09/26",
+        "data_pagamento": "29/09/26",
+        "valor": "0,21"
+    },
+    {
+        "ativo": "SMRE11",
+        "tipo": "Dividendos",
+        "data_com": "30/09/26",
+        "data_pagamento": "12/10/26",
+        "valor": "1,00"
     }
 ]
