@@ -12507,5 +12507,40 @@
         "data_com": "04/09/2026",
         "data_pagamento": "24/09/2026",
         "valor": "1.296448"
+    },
+    {
+        "ativo": "S1SN34",
+        "tipo": "Dividendo",
+        "data_com": "28/08/2026",
+        "data_pagamento": "21/09/2026",
+        "valor": "0.174246"
+    },
+    {
+        "ativo": "BIWM39",
+        "tipo": "Dividendo",
+        "data_com": "14/09/2026",
+        "data_pagamento": "24/09/2026",
+        "valor": "0.131829"
+    },
+    {
+        "ativo": "E1VR34",
+        "tipo": "Dividendo",
+        "data_com": "14/08/2026",
+        "data_pagamento": "24/09/2026",
+        "valor": "1.201591"
+    },
+    {
+        "ativo": "DLMT11",
+        "tipo": "Dividendos",
+        "data_com": "25/09/26",
+        "data_pagamento": "02/10/26",
+        "valor": "-"
+    },
+    {
+        "ativo": "SMRE11",
+        "tipo": "Dividendos",
+        "data_com": "30/09/26",
+        "data_pagamento": "13/10/26",
+        "valor": "1,00"
     }
 ]
