@@ -12745,5 +12745,47 @@
         "data_com": "01/09/2026",
         "data_pagamento": "30/09/2026",
         "valor": "0.632955"
+    },
+    {
+        "ativo": "MOSC34",
+        "tipo": "Dividendo",
+        "data_com": "08/09/2026",
+        "data_pagamento": "30/09/2026",
+        "valor": "0.128933"
+    },
+    {
+        "ativo": "X1YL34",
+        "tipo": "Dividendo",
+        "data_com": "25/08/2026",
+        "data_pagamento": "30/09/2026",
+        "valor": "0.756027"
+    },
+    {
+        "ativo": "IVBP11",
+        "tipo": "Dividendos",
+        "data_com": "15/09/26",
+        "data_pagamento": "22/09/26",
+        "valor": "0,08"
+    },
+    {
+        "ativo": "BVAR11",
+        "tipo": "Dividendos",
+        "data_com": "28/09/26",
+        "data_pagamento": "06/10/26",
+        "valor": "65,00"
+    },
+    {
+        "ativo": "BVAR11",
+        "tipo": "Amortização",
+        "data_com": "28/09/26",
+        "data_pagamento": "06/10/26",
+        "valor": "6,33"
+    },
+    {
+        "ativo": "ELDO11B",
+        "tipo": "Dividendos",
+        "data_com": "28/09/26",
+        "data_pagamento": "06/10/26",
+        "valor": "1,08"
     }
 ]
