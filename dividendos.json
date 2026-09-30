@@ -12787,5 +12787,33 @@
         "data_com": "28/09/26",
         "data_pagamento": "06/10/26",
         "valor": "1,08"
+    },
+    {
+        "ativo": "BIHF39",
+        "tipo": "Dividendo",
+        "data_com": "14/09/2026",
+        "data_pagamento": "24/09/2026",
+        "valor": "0.015065"
+    },
+    {
+        "ativo": "C2EM34",
+        "tipo": "Dividendo",
+        "data_com": "11/09/2026",
+        "data_pagamento": "30/09/2026",
+        "valor": "0.156579"
+    },
+    {
+        "ativo": "SPG211",
+        "tipo": "Dividendos",
+        "data_com": "29/09/26",
+        "data_pagamento": "06/10/26",
+        "valor": "0,08"
+    },
+    {
+        "ativo": "LMAI11",
+        "tipo": "Dividendos",
+        "data_com": "30/09/26",
+        "data_pagamento": "09/10/26",
+        "valor": "0,23"
     }
 ]
