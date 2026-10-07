@@ -16616,5 +16616,89 @@
         "data_com": "05/10/26",
         "data_pagamento": "13/10/26",
         "valor": "11,68"
+    },
+    {
+        "ativo": "ADPR34",
+        "tipo": "Dividendo",
+        "data_com": "09/09/2026",
+        "data_pagamento": "07/10/2026",
+        "valor": "0.250259"
+    },
+    {
+        "ativo": "C1BL34",
+        "tipo": "Dividendo",
+        "data_com": "09/09/2026",
+        "data_pagamento": "08/10/2026",
+        "valor": "0.204742"
+    },
+    {
+        "ativo": "DGCO34",
+        "tipo": "Dividendo",
+        "data_com": "02/10/2026",
+        "data_pagamento": "26/10/2026",
+        "valor": "0.085874"
+    },
+    {
+        "ativo": "FLMA11",
+        "tipo": "Dividendos",
+        "data_com": "06/10/26",
+        "data_pagamento": "15/10/26",
+        "valor": "1,29"
+    },
+    {
+        "ativo": "FISC11",
+        "tipo": "Dividendos",
+        "data_com": "06/10/26",
+        "data_pagamento": "15/10/26",
+        "valor": "0,71"
+    },
+    {
+        "ativo": "FATN11",
+        "tipo": "Dividendos",
+        "data_com": "06/10/26",
+        "data_pagamento": "15/10/26",
+        "valor": "0,80"
+    },
+    {
+        "ativo": "BIME11",
+        "tipo": "Dividendos",
+        "data_com": "06/10/26",
+        "data_pagamento": "15/10/26",
+        "valor": "0,06"
+    },
+    {
+        "ativo": "LPLP11",
+        "tipo": "Dividendos",
+        "data_com": "06/10/26",
+        "data_pagamento": "15/10/26",
+        "valor": "2,79"
+    },
+    {
+        "ativo": "LPLP11",
+        "tipo": "Amortização",
+        "data_com": "06/10/26",
+        "data_pagamento": "15/10/26",
+        "valor": "-"
+    },
+    {
+        "ativo": "NCRI11",
+        "tipo": "Dividendos",
+        "data_com": "06/10/26",
+        "data_pagamento": "15/10/26",
+        "valor": "0,06"
+    },
+    {
+        "ativo": "RENV11",
+        "tipo": "Dividendos",
+        "data_com": "06/10/26",
+        "data_pagamento": "15/10/26",
+        "valor": "0,08"
+    },
+    {
+        "ativo": "OXRL11",
+        "tipo": "Dividendos",
+        "data_com": "06/10/26",
+        "data_pagamento": "15/10/26",
+        "valor": "0,85"
     }
 ]
