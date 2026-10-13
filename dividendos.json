@@ -17435,5 +17435,12 @@
         "data_com": "08/09/2026",
         "data_pagamento": "19/10/2026",
         "valor": "0.990092"
+    },
+    {
+        "ativo": "BIEI39",
+        "tipo": "Dividendo",
+        "data_com": "30/09/2026",
+        "data_pagamento": "13/10/2026",
+        "valor": "0.103666"
     }
 ]
