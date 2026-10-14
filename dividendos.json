@@ -17442,5 +17442,19 @@
         "data_com": "30/09/2026",
         "data_pagamento": "13/10/2026",
         "valor": "0.103666"
+    },
+    {
+        "ativo": "SPXT11",
+        "tipo": "Dividendos",
+        "data_com": "07/10/26",
+        "data_pagamento": "15/10/26",
+        "valor": "0,88"
+    },
+    {
+        "ativo": "REME11",
+        "tipo": "Amortização",
+        "data_com": "13/10/26",
+        "data_pagamento": "30/10/26",
+        "valor": "15,27"
     }
 ]
