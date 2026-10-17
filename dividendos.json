@@ -17876,5 +17876,89 @@
         "data_com": "08/09/26",
         "data_pagamento": "15/09/26",
         "valor": "0,11"
+    },
+    {
+        "ativo": "BDIF11",
+        "tipo": "Dividendos",
+        "data_com": "15/10/26",
+        "data_pagamento": "22/10/26",
+        "valor": "0,85"
+    },
+    {
+        "ativo": "SNID11",
+        "tipo": "Dividendos",
+        "data_com": "15/10/26",
+        "data_pagamento": "23/10/26",
+        "valor": "0,11"
+    },
+    {
+        "ativo": "AZIN11",
+        "tipo": "Dividendos",
+        "data_com": "15/10/26",
+        "data_pagamento": "22/10/26",
+        "valor": "1,40"
+    },
+    {
+        "ativo": "XPIN11",
+        "tipo": "Dividendos",
+        "data_com": "16/10/26",
+        "data_pagamento": "23/10/26",
+        "valor": "0,33"
+    },
+    {
+        "ativo": "XPML11",
+        "tipo": "Dividendos",
+        "data_com": "16/10/26",
+        "data_pagamento": "23/10/26",
+        "valor": "0,92"
+    },
+    {
+        "ativo": "FCFL11",
+        "tipo": "Dividendos",
+        "data_com": "16/10/26",
+        "data_pagamento": "23/10/26",
+        "valor": "0,94"
+    },
+    {
+        "ativo": "BPML11",
+        "tipo": "Dividendos",
+        "data_com": "16/10/26",
+        "data_pagamento": "23/10/26",
+        "valor": "0,92"
+    },
+    {
+        "ativo": "CPOF11",
+        "tipo": "Dividendos",
+        "data_com": "16/10/26",
+        "data_pagamento": "23/10/26",
+        "valor": "2,00"
+    },
+    {
+        "ativo": "ALZC11",
+        "tipo": "Dividendos",
+        "data_com": "16/10/26",
+        "data_pagamento": "23/10/26",
+        "valor": "0,09"
+    },
+    {
+        "ativo": "BETW11",
+        "tipo": "Dividendos",
+        "data_com": "16/10/26",
+        "data_pagamento": "23/10/26",
+        "valor": "0,63"
+    },
+    {
+        "ativo": "CYLD11",
+        "tipo": "Dividendos",
+        "data_com": "16/10/26",
+        "data_pagamento": "23/10/26",
+        "valor": "0,77"
+    },
+    {
+        "ativo": "MCRE11",
+        "tipo": "Dividendos",
+        "data_com": "16/10/26",
+        "data_pagamento": "23/10/26",
+        "valor": "0,10"
     }
 ]
