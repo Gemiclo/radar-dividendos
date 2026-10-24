@@ -18170,5 +18170,89 @@
         "data_com": "22/10/26",
         "data_pagamento": "29/10/26",
         "valor": "6,50"
+    },
+    {
+        "ativo": "EALT3",
+        "tipo": "Dividendo",
+        "data_com": "29/04/2026",
+        "data_pagamento": "29/10/2026",
+        "valor": "0.056404"
+    },
+    {
+        "ativo": "EALT3",
+        "tipo": "Dividendo",
+        "data_com": "19/01/2022",
+        "data_pagamento": "29/10/2026",
+        "valor": "0.006275"
+    },
+    {
+        "ativo": "EALT3",
+        "tipo": "JCP",
+        "data_com": "15/12/2025",
+        "data_pagamento": "29/10/2026",
+        "valor": "0.216606"
+    },
+    {
+        "ativo": "EALT4",
+        "tipo": "Dividendo",
+        "data_com": "19/01/2022",
+        "data_pagamento": "29/10/2026",
+        "valor": "0.006903"
+    },
+    {
+        "ativo": "EALT4",
+        "tipo": "Dividendo",
+        "data_com": "29/04/2026",
+        "data_pagamento": "29/10/2026",
+        "valor": "0.062044"
+    },
+    {
+        "ativo": "EALT4",
+        "tipo": "JCP",
+        "data_com": "15/12/2025",
+        "data_pagamento": "29/10/2026",
+        "valor": "0.238266"
+    },
+    {
+        "ativo": "BDIV11",
+        "tipo": "Dividendos",
+        "data_com": "22/10/26",
+        "data_pagamento": "29/10/26",
+        "valor": "1,60"
+    },
+    {
+        "ativo": "EDGA11",
+        "tipo": "Dividendos",
+        "data_com": "23/10/26",
+        "data_pagamento": "30/10/26",
+        "valor": "0,07"
+    },
+    {
+        "ativo": "BTRA11",
+        "tipo": "Dividendos",
+        "data_com": "23/10/26",
+        "data_pagamento": "30/10/26",
+        "valor": "1,00"
+    },
+    {
+        "ativo": "BTSI11",
+        "tipo": "Dividendos",
+        "data_com": "23/10/26",
+        "data_pagamento": "30/10/26",
+        "valor": "0,83"
+    },
+    {
+        "ativo": "GZIT11",
+        "tipo": "Dividendos",
+        "data_com": "23/10/26",
+        "data_pagamento": "30/10/26",
+        "valor": "0,36"
+    },
+    {
+        "ativo": "ADSH11",
+        "tipo": "Dividendos",
+        "data_com": "23/10/26",
+        "data_pagamento": "30/10/26",
+        "valor": "0,02"
     }
 ]
