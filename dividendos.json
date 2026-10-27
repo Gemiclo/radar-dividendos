@@ -18254,5 +18254,26 @@
         "data_com": "23/10/26",
         "data_pagamento": "30/10/26",
         "valor": "0,02"
+    },
+    {
+        "ativo": "PPEI11",
+        "tipo": "Dividendos",
+        "data_com": "23/10/26",
+        "data_pagamento": "30/10/26",
+        "valor": "1,00"
+    },
+    {
+        "ativo": "PRIF11",
+        "tipo": "Amortização",
+        "data_com": "23/10/26",
+        "data_pagamento": "30/10/26",
+        "valor": "25,00"
+    },
+    {
+        "ativo": "ELDO11B",
+        "tipo": "Dividendos",
+        "data_com": "26/10/26",
+        "data_pagamento": "03/11/26",
+        "valor": "1,00"
     }
 ]
