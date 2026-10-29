@@ -18282,5 +18282,54 @@
         "data_com": "27/10/26",
         "data_pagamento": "04/11/26",
         "valor": "2,76"
+    },
+    {
+        "ativo": "EALT3",
+        "tipo": "Dividendo",
+        "data_com": "19/01/2022",
+        "data_pagamento": "30/10/2026",
+        "valor": "0.006275"
+    },
+    {
+        "ativo": "EALT4",
+        "tipo": "Dividendo",
+        "data_com": "19/01/2022",
+        "data_pagamento": "30/10/2026",
+        "valor": "0.006903"
+    },
+    {
+        "ativo": "TVMO11",
+        "tipo": "Dividendos",
+        "data_com": "20/10/26",
+        "data_pagamento": "27/10/26",
+        "valor": "0,78"
+    },
+    {
+        "ativo": "SMRE11",
+        "tipo": "Dividendos",
+        "data_com": "30/10/26",
+        "data_pagamento": "10/11/26",
+        "valor": "1,00"
+    },
+    {
+        "ativo": "PCAS11",
+        "tipo": "Dividendos",
+        "data_com": "30/10/26",
+        "data_pagamento": "10/11/26",
+        "valor": "85,71"
+    },
+    {
+        "ativo": "EBTA11",
+        "tipo": "Dividendos",
+        "data_com": "15/09/26",
+        "data_pagamento": "22/09/26",
+        "valor": "0,01"
+    },
+    {
+        "ativo": "EBTA11",
+        "tipo": "Dividendos",
+        "data_com": "30/09/26",
+        "data_pagamento": "07/10/26",
+        "valor": "0,01"
     }
 ]
