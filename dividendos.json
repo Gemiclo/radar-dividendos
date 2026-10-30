@@ -18331,5 +18331,19 @@
         "data_com": "30/09/26",
         "data_pagamento": "07/10/26",
         "valor": "0,01"
+    },
+    {
+        "ativo": "PFIN11",
+        "tipo": "Dividendos",
+        "data_com": "28/10/26",
+        "data_pagamento": "04/11/26",
+        "valor": "1,28"
+    },
+    {
+        "ativo": "SPG211",
+        "tipo": "Dividendos",
+        "data_com": "29/10/26",
+        "data_pagamento": "06/11/26",
+        "valor": "0,08"
     }
 ]
