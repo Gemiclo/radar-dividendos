@@ -19822,5 +19822,201 @@
         "data_com": "30/10/26",
         "data_pagamento": "16/11/26",
         "valor": "0,20"
+    },
+    {
+        "ativo": "HFOF11",
+        "tipo": "Dividendos",
+        "data_com": "30/10/26",
+        "data_pagamento": "16/11/26",
+        "valor": "0,06"
+    },
+    {
+        "ativo": "FIGS11",
+        "tipo": "Dividendos",
+        "data_com": "30/10/26",
+        "data_pagamento": "16/11/26",
+        "valor": "0,48"
+    },
+    {
+        "ativo": "RCRB11",
+        "tipo": "Dividendos",
+        "data_com": "30/10/26",
+        "data_pagamento": "13/11/26",
+        "valor": "1,30"
+    },
+    {
+        "ativo": "FVPQ11",
+        "tipo": "Dividendos",
+        "data_com": "30/10/26",
+        "data_pagamento": "16/11/26",
+        "valor": "0,25"
+    },
+    {
+        "ativo": "CJCT11",
+        "tipo": "Dividendos",
+        "data_com": "30/10/26",
+        "data_pagamento": "16/11/26",
+        "valor": "0,24"
+    },
+    {
+        "ativo": "FLRP11",
+        "tipo": "Dividendos",
+        "data_com": "30/10/26",
+        "data_pagamento": "16/11/26",
+        "valor": "0,15"
+    },
+    {
+        "ativo": "KNSC11",
+        "tipo": "Dividendos",
+        "data_com": "30/10/26",
+        "data_pagamento": "13/11/26",
+        "valor": "0,08"
+    },
+    {
+        "ativo": "PQAG11",
+        "tipo": "Dividendos",
+        "data_com": "30/10/26",
+        "data_pagamento": "16/11/26",
+        "valor": "0,51"
+    },
+    {
+        "ativo": "WPLZ11",
+        "tipo": "Dividendos",
+        "data_com": "30/10/26",
+        "data_pagamento": "16/11/26",
+        "valor": "0,37"
+    },
+    {
+        "ativo": "VCJR11",
+        "tipo": "Dividendos",
+        "data_com": "30/10/26",
+        "data_pagamento": "13/11/26",
+        "valor": "0,82"
+    },
+    {
+        "ativo": "ATSA11",
+        "tipo": "Dividendos",
+        "data_com": "30/10/26",
+        "data_pagamento": "16/11/26",
+        "valor": "0,20"
+    },
+    {
+        "ativo": "FMOF11",
+        "tipo": "Dividendos",
+        "data_com": "30/10/26",
+        "data_pagamento": "16/11/26",
+        "valor": "5,00"
+    },
+    {
+        "ativo": "HLOG11",
+        "tipo": "Dividendos",
+        "data_com": "30/10/26",
+        "data_pagamento": "16/11/26",
+        "valor": "0,07"
+    },
+    {
+        "ativo": "HPDP11",
+        "tipo": "Dividendos",
+        "data_com": "30/10/26",
+        "data_pagamento": "16/11/26",
+        "valor": "0,61"
+    },
+    {
+        "ativo": "HREC11",
+        "tipo": "Dividendos",
+        "data_com": "30/10/26",
+        "data_pagamento": "16/11/26",
+        "valor": "0,10"
+    },
+    {
+        "ativo": "SEED11",
+        "tipo": "Dividendos",
+        "data_com": "30/10/26",
+        "data_pagamento": "16/11/26",
+        "valor": "1,39"
+    },
+    {
+        "ativo": "RPRI11",
+        "tipo": "Dividendos",
+        "data_com": "30/10/26",
+        "data_pagamento": "13/11/26",
+        "valor": "0,90"
+    },
+    {
+        "ativo": "TMPS11",
+        "tipo": "Dividendos",
+        "data_com": "30/10/26",
+        "data_pagamento": "12/11/26",
+        "valor": "0,75"
+    },
+    {
+        "ativo": "JGPX11",
+        "tipo": "Dividendos",
+        "data_com": "30/10/26",
+        "data_pagamento": "16/11/26",
+        "valor": "1,00"
+    },
+    {
+        "ativo": "SAPI11",
+        "tipo": "Dividendos",
+        "data_com": "30/10/26",
+        "data_pagamento": "16/11/26",
+        "valor": "0,10"
+    },
+    {
+        "ativo": "KORE11",
+        "tipo": "Dividendos",
+        "data_com": "30/10/26",
+        "data_pagamento": "16/11/26",
+        "valor": "0,60"
+    },
+    {
+        "ativo": "ICRI11",
+        "tipo": "Dividendos",
+        "data_com": "30/10/26",
+        "data_pagamento": "12/11/26",
+        "valor": "1,05"
+    },
+    {
+        "ativo": "ARXD11",
+        "tipo": "Dividendos",
+        "data_com": "30/10/26",
+        "data_pagamento": "16/11/26",
+        "valor": "0,09"
+    },
+    {
+        "ativo": "HGBL11",
+        "tipo": "Dividendos",
+        "data_com": "30/10/26",
+        "data_pagamento": "16/11/26",
+        "valor": "0,07"
+    },
+    {
+        "ativo": "RBFM11",
+        "tipo": "Dividendos",
+        "data_com": "30/10/26",
+        "data_pagamento": "13/11/26",
+        "valor": "0,11"
+    },
+    {
+        "ativo": "HJCT11",
+        "tipo": "Dividendos",
+        "data_com": "30/10/26",
+        "data_pagamento": "16/11/26",
+        "valor": "1,07"
+    },
+    {
+        "ativo": "CLSM11",
+        "tipo": "Dividendos",
+        "data_com": "30/10/26",
+        "data_pagamento": "16/11/26",
+        "valor": "0,87"
+    },
+    {
+        "ativo": "VGRH11",
+        "tipo": "Dividendos",
+        "data_com": "30/10/26",
+        "data_pagamento": "16/11/26",
+        "valor": "0,85"
     }
 ]
