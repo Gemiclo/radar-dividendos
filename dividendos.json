@@ -20417,5 +20417,47 @@
         "data_com": "30/10/26",
         "data_pagamento": "09/11/26",
         "valor": "0,01"
+    },
+    {
+        "ativo": "GGRC11",
+        "tipo": "Dividendos",
+        "data_com": "03/11/26",
+        "data_pagamento": "10/11/26",
+        "valor": "0,10"
+    },
+    {
+        "ativo": "CXRI11",
+        "tipo": "Dividendos",
+        "data_com": "03/11/26",
+        "data_pagamento": "12/11/26",
+        "valor": "0,65"
+    },
+    {
+        "ativo": "CRFF11",
+        "tipo": "Dividendos",
+        "data_com": "03/11/26",
+        "data_pagamento": "12/11/26",
+        "valor": "0,65"
+    },
+    {
+        "ativo": "RBLG11",
+        "tipo": "Dividendos",
+        "data_com": "03/11/26",
+        "data_pagamento": "10/11/26",
+        "valor": "0,13"
+    },
+    {
+        "ativo": "MIDW11",
+        "tipo": "Dividendos",
+        "data_com": "15/10/26",
+        "data_pagamento": "22/10/26",
+        "valor": "0,09"
+    },
+    {
+        "ativo": "NEWU11",
+        "tipo": "Dividendos",
+        "data_com": "30/10/26",
+        "data_pagamento": "16/11/26",
+        "valor": "0,70"
     }
 ]
