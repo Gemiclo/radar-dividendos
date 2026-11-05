@@ -20459,5 +20459,33 @@
         "data_com": "30/10/26",
         "data_pagamento": "16/11/26",
         "valor": "0,70"
+    },
+    {
+        "ativo": "KNPR11",
+        "tipo": "Amortização",
+        "data_com": "04/11/26",
+        "data_pagamento": "10/11/26",
+        "valor": "28,00"
+    },
+    {
+        "ativo": "EGAF11",
+        "tipo": "Dividendos",
+        "data_com": "04/11/26",
+        "data_pagamento": "11/11/26",
+        "valor": "1,21"
+    },
+    {
+        "ativo": "BRFT11",
+        "tipo": "Amortização",
+        "data_com": "04/11/26",
+        "data_pagamento": "10/11/26",
+        "valor": "1,00"
+    },
+    {
+        "ativo": "VGRM11",
+        "tipo": "Dividendos",
+        "data_com": "04/11/26",
+        "data_pagamento": "11/11/26",
+        "valor": "1,24"
     }
 ]
