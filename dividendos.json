@@ -20998,5 +20998,117 @@
         "data_com": "30/10/26",
         "data_pagamento": "09/11/26",
         "valor": "0,01"
+    },
+    {
+        "ativo": "CPFE3",
+        "tipo": "Dividendo",
+        "data_com": "29/04/2026",
+        "data_pagamento": "23/11/2026",
+        "valor": "1.128223"
+    },
+    {
+        "ativo": "LOGG3",
+        "tipo": "Dividendo",
+        "data_com": "13/11/2026",
+        "data_pagamento": "30/11/2026",
+        "valor": "0.994671"
+    },
+    {
+        "ativo": "MGRI11",
+        "tipo": "Dividendos",
+        "data_com": "09/11/26",
+        "data_pagamento": "16/11/26",
+        "valor": "0,05"
+    },
+    {
+        "ativo": "IRIF11",
+        "tipo": "Dividendos",
+        "data_com": "09/11/26",
+        "data_pagamento": "18/11/26",
+        "valor": "0,08"
+    },
+    {
+        "ativo": "EXIF11",
+        "tipo": "Dividendos",
+        "data_com": "09/11/26",
+        "data_pagamento": "16/11/26",
+        "valor": "0,09"
+    },
+    {
+        "ativo": "VALO11",
+        "tipo": "Dividendos",
+        "data_com": "09/11/26",
+        "data_pagamento": "17/11/26",
+        "valor": "0,07"
+    },
+    {
+        "ativo": "BCDI11",
+        "tipo": "Dividendos",
+        "data_com": "09/11/26",
+        "data_pagamento": "24/11/26",
+        "valor": "1,20"
+    },
+    {
+        "ativo": "FPAB11",
+        "tipo": "Dividendos",
+        "data_com": "10/11/26",
+        "data_pagamento": "17/11/26",
+        "valor": "2,10"
+    },
+    {
+        "ativo": "BLCA11",
+        "tipo": "Dividendos",
+        "data_com": "10/11/26",
+        "data_pagamento": "17/11/26",
+        "valor": "0,55"
+    },
+    {
+        "ativo": "CCME11",
+        "tipo": "Dividendos",
+        "data_com": "10/11/26",
+        "data_pagamento": "17/11/26",
+        "valor": "0,09"
+    },
+    {
+        "ativo": "CLIN11",
+        "tipo": "Dividendos",
+        "data_com": "10/11/26",
+        "data_pagamento": "17/11/26",
+        "valor": "0,90"
+    },
+    {
+        "ativo": "MAGM11",
+        "tipo": "Dividendos",
+        "data_com": "10/11/26",
+        "data_pagamento": "17/11/26",
+        "valor": "0,12"
+    },
+    {
+        "ativo": "PCIP11",
+        "tipo": "Dividendos",
+        "data_com": "10/11/26",
+        "data_pagamento": "17/11/26",
+        "valor": "0,73"
+    },
+    {
+        "ativo": "PSEC11",
+        "tipo": "Dividendos",
+        "data_com": "10/11/26",
+        "data_pagamento": "17/11/26",
+        "valor": "0,60"
+    },
+    {
+        "ativo": "ARTE11",
+        "tipo": "Dividendos",
+        "data_com": "10/11/26",
+        "data_pagamento": "17/11/26",
+        "valor": "0,12"
+    },
+    {
+        "ativo": "REME11",
+        "tipo": "Amortização",
+        "data_com": "30/10/26",
+        "data_pagamento": "30/11/26",
+        "valor": "15,27"
     }
 ]
