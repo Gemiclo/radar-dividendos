@@ -21110,5 +21110,89 @@
         "data_com": "30/10/26",
         "data_pagamento": "30/11/26",
         "valor": "15,27"
+    },
+    {
+        "ativo": "BRAP3",
+        "tipo": "Dividendo",
+        "data_com": "11/11/2026",
+        "data_pagamento": "23/11/2026",
+        "valor": "0.181554"
+    },
+    {
+        "ativo": "BRAP3",
+        "tipo": "JCP",
+        "data_com": "11/11/2026",
+        "data_pagamento": "23/11/2026",
+        "valor": "0.585274"
+    },
+    {
+        "ativo": "BRAP4",
+        "tipo": "Dividendo",
+        "data_com": "11/11/2026",
+        "data_pagamento": "23/11/2026",
+        "valor": "0.19971"
+    },
+    {
+        "ativo": "BRAP4",
+        "tipo": "JCP",
+        "data_com": "11/11/2026",
+        "data_pagamento": "23/11/2026",
+        "valor": "0.643802"
+    },
+    {
+        "ativo": "CURY3",
+        "tipo": "Dividendo",
+        "data_com": "13/11/2026",
+        "data_pagamento": "30/11/2026",
+        "valor": "0.64925"
+    },
+    {
+        "ativo": "RBRR11",
+        "tipo": "Dividendos",
+        "data_com": "11/11/26",
+        "data_pagamento": "18/11/26",
+        "valor": "0,59"
+    },
+    {
+        "ativo": "RBRY11",
+        "tipo": "Dividendos",
+        "data_com": "11/11/26",
+        "data_pagamento": "18/11/26",
+        "valor": "1,00"
+    },
+    {
+        "ativo": "IBCR11",
+        "tipo": "Dividendos",
+        "data_com": "11/11/26",
+        "data_pagamento": "18/11/26",
+        "valor": "0,35"
+    },
+    {
+        "ativo": "GAME11",
+        "tipo": "Dividendos",
+        "data_com": "11/11/26",
+        "data_pagamento": "24/11/26",
+        "valor": "0,10"
+    },
+    {
+        "ativo": "VTPL11",
+        "tipo": "Dividendos",
+        "data_com": "11/11/26",
+        "data_pagamento": "18/11/26",
+        "valor": "0,50"
+    },
+    {
+        "ativo": "IRIM11",
+        "tipo": "Dividendos",
+        "data_com": "11/11/26",
+        "data_pagamento": "18/11/26",
+        "valor": "0,75"
+    },
+    {
+        "ativo": "RZRM11",
+        "tipo": "Dividendos",
+        "data_com": "11/11/26",
+        "data_pagamento": "18/11/26",
+        "valor": "0,80"
     }
 ]
