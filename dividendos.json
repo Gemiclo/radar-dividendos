@@ -21194,5 +21194,82 @@
         "data_com": "11/11/26",
         "data_pagamento": "18/11/26",
         "valor": "0,80"
+    },
+    {
+        "ativo": "WIZC3",
+        "tipo": "Dividendo",
+        "data_com": "28/04/2026",
+        "data_pagamento": "23/11/2026",
+        "valor": "0.312637"
+    },
+    {
+        "ativo": "VGIR11",
+        "tipo": "Dividendos",
+        "data_com": "12/11/26",
+        "data_pagamento": "19/11/26",
+        "valor": "0,12"
+    },
+    {
+        "ativo": "VGIP11",
+        "tipo": "Dividendos",
+        "data_com": "12/11/26",
+        "data_pagamento": "19/11/26",
+        "valor": "0,55"
+    },
+    {
+        "ativo": "MCCI11",
+        "tipo": "Dividendos",
+        "data_com": "12/11/26",
+        "data_pagamento": "19/11/26",
+        "valor": "1,00"
+    },
+    {
+        "ativo": "DOVL11B",
+        "tipo": "Dividendos",
+        "data_com": "12/11/26",
+        "data_pagamento": "23/11/26",
+        "valor": "6,61"
+    },
+    {
+        "ativo": "ELDO11B",
+        "tipo": "Dividendos",
+        "data_com": "12/11/26",
+        "data_pagamento": "23/11/26",
+        "valor": "9,00"
+    },
+    {
+        "ativo": "HCRI11",
+        "tipo": "Dividendos",
+        "data_com": "12/11/26",
+        "data_pagamento": "19/11/26",
+        "valor": "2,58"
+    },
+    {
+        "ativo": "VGIA11",
+        "tipo": "Dividendos",
+        "data_com": "12/11/26",
+        "data_pagamento": "19/11/26",
+        "valor": "0,12"
+    },
+    {
+        "ativo": "CPTR11",
+        "tipo": "Dividendos",
+        "data_com": "12/11/26",
+        "data_pagamento": "19/11/26",
+        "valor": "0,10"
+    },
+    {
+        "ativo": "RZZR11",
+        "tipo": "Dividendos",
+        "data_com": "12/11/26",
+        "data_pagamento": "19/11/26",
+        "valor": "1,24"
+    },
+    {
+        "ativo": "TELM11",
+        "tipo": "Dividendos",
+        "data_com": "12/11/26",
+        "data_pagamento": "19/11/26",
+        "valor": "0,09"
     }
 ]
