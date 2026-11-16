@@ -21425,5 +21425,12 @@
         "data_com": "19/11/26",
         "data_pagamento": "23/11/26",
         "valor": "0,09"
+    },
+    {
+        "ativo": "VLID3",
+        "tipo": "Dividendo",
+        "data_com": "16/11/2026",
+        "data_pagamento": "30/11/2026",
+        "valor": "0.179557"
     }
 ]
