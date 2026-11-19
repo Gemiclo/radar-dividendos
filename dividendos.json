@@ -21719,5 +21719,54 @@
         "data_com": "18/11/26",
         "data_pagamento": "27/11/26",
         "valor": "3,02"
+    },
+    {
+        "ativo": "TPOS11",
+        "tipo": "Dividendos",
+        "data_com": "06/11/26",
+        "data_pagamento": "13/11/26",
+        "valor": "1,30"
+    },
+    {
+        "ativo": "VVCR11",
+        "tipo": "Dividendos",
+        "data_com": "18/11/26",
+        "data_pagamento": "26/11/26",
+        "valor": "0,08"
+    },
+    {
+        "ativo": "BROF11",
+        "tipo": "Dividendos",
+        "data_com": "18/11/26",
+        "data_pagamento": "26/11/26",
+        "valor": "0,57"
+    },
+    {
+        "ativo": "VVRI11",
+        "tipo": "Dividendos",
+        "data_com": "18/11/26",
+        "data_pagamento": "26/11/26",
+        "valor": "0,04"
+    },
+    {
+        "ativo": "HILG11",
+        "tipo": "Amortização",
+        "data_com": "18/11/26",
+        "data_pagamento": "27/11/26",
+        "valor": "95,40"
+    },
+    {
+        "ativo": "FTCA11",
+        "tipo": "Dividendos",
+        "data_com": "18/11/26",
+        "data_pagamento": "26/11/26",
+        "valor": "0,07"
+    },
+    {
+        "ativo": "TPOS11",
+        "tipo": "Dividendos",
+        "data_com": "06/10/26",
+        "data_pagamento": "14/10/26",
+        "valor": "1,35"
     }
 ]
