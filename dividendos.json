@@ -21852,5 +21852,12 @@
         "data_com": "19/11/26",
         "data_pagamento": "27/11/26",
         "valor": "0,29"
+    },
+    {
+        "ativo": "PSSA3",
+        "tipo": "Dividendo",
+        "data_com": "31/03/2026",
+        "data_pagamento": "27/11/2026",
+        "valor": "0.886101"
     }
 ]
