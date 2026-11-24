@@ -21859,5 +21859,40 @@
         "data_com": "31/03/2026",
         "data_pagamento": "27/11/2026",
         "valor": "0.886101"
+    },
+    {
+        "ativo": "BTHR11",
+        "tipo": "Dividendos",
+        "data_com": "11/11/26",
+        "data_pagamento": "18/11/26",
+        "valor": "0,21"
+    },
+    {
+        "ativo": "EDGA11",
+        "tipo": "Dividendos",
+        "data_com": "23/11/26",
+        "data_pagamento": "30/11/26",
+        "valor": "0,06"
+    },
+    {
+        "ativo": "BTRA11",
+        "tipo": "Dividendos",
+        "data_com": "23/11/26",
+        "data_pagamento": "30/11/26",
+        "valor": "1,00"
+    },
+    {
+        "ativo": "BTSI11",
+        "tipo": "Dividendos",
+        "data_com": "23/11/26",
+        "data_pagamento": "30/11/26",
+        "valor": "0,83"
+    },
+    {
+        "ativo": "GZIT11",
+        "tipo": "Dividendos",
+        "data_com": "23/11/26",
+        "data_pagamento": "30/11/26",
+        "valor": "0,36"
     }
 ]
