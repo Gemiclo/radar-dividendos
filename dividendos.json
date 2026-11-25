@@ -21894,5 +21894,47 @@
         "data_com": "23/11/26",
         "data_pagamento": "30/11/26",
         "valor": "0,36"
+    },
+    {
+        "ativo": "MTRE3",
+        "tipo": "Dividendo",
+        "data_com": "13/11/2026",
+        "data_pagamento": "27/11/2026",
+        "valor": "0.037986"
+    },
+    {
+        "ativo": "VIMO11",
+        "tipo": "Amortização",
+        "data_com": "03/11/26",
+        "data_pagamento": "17/11/26",
+        "valor": "0,33"
+    },
+    {
+        "ativo": "PPEI11",
+        "tipo": "Dividendos",
+        "data_com": "23/11/26",
+        "data_pagamento": "30/11/26",
+        "valor": "1,00"
+    },
+    {
+        "ativo": "KNOX11",
+        "tipo": "Dividendos",
+        "data_com": "23/11/26",
+        "data_pagamento": "30/11/26",
+        "valor": "2,86"
+    },
+    {
+        "ativo": "KNOX11",
+        "tipo": "Amortização",
+        "data_com": "23/11/26",
+        "data_pagamento": "30/11/26",
+        "valor": "4,19"
+    },
+    {
+        "ativo": "VIMO11",
+        "tipo": "Dividendos",
+        "data_com": "30/10/26",
+        "data_pagamento": "16/11/26",
+        "valor": "0,17"
     }
 ]
