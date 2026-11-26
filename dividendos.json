@@ -21936,5 +21936,12 @@
         "data_com": "30/10/26",
         "data_pagamento": "16/11/26",
         "valor": "0,17"
+    },
+    {
+        "ativo": "SMRE11",
+        "tipo": "Dividendos",
+        "data_com": "30/11/26",
+        "data_pagamento": "10/12/26",
+        "valor": "1,00"
     }
 ]
